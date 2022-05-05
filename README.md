@@ -15,9 +15,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   Para entregar o seu projeto você deverá criar um Pull Request em **cada um destes** repositórios:
 
-  - [Repositório com o back-end](https://github.com/tryber/sd-0x-stranger-things-backend).
+  - [Repositório com o back-end](https://github.com/tryber/sd-016-a-stranger-things-backend).
 
-  - [Repositório com o front-end](https://github.com/tryber/sd-0x-stranger-things-frontend);
+  - [Repositório com o front-end](https://github.com/tryber/sd-016-a-stranger-things-frontend);
 
   Lembre-se de que você pode consultar o nosso conteúdo sobre [Git & GitHub](https://course.betrybe.com/intro/git/) sempre que precisar!
 
@@ -50,13 +50,13 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   1. Clone os **dois** repositórios:
 
-  - `git clone https://github.com/tryber/sd-0x-stranger-things-backend.git`
-  - `git clone https://github.com/tryber/sd-0x-stranger-things-frontend.git`
+  - `git clone https://github.com/tryber/sd-016-a-stranger-things-backend.git`
+  - `git clone https://github.com/tryber/sd-016-a-stranger-things-frontend.git`
 
   2. Navegue entre as pastas dos repositórios que você acabou de clonar:
 
-  - `cd sd-0x-stranger-things-backend`
-  - `cd sd-0x-stranger-things-frontend`
+  - `cd sd-016-a-stranger-things-backend`
+  - `cd sd-016-a-stranger-things-frontend`
 
   3. Instale as dependências dos dois projetos:
 
@@ -75,18 +75,18 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
   - Agora crie uma branch à qual você vai submeter os `commits` dos seus projetos:
     - Você deve criar uma branch no seguinte formato: `nome-de-usuario-nome-do-projeto`
     - Exemplo:
-      - `git checkout -b joaozinho-sd-0x-stranger-things-backend`
-      - `git checkout -b joaozinho-sd-0x-stranger-things-frontend`
+      - `git checkout -b joaozinho-sd-016-a-stranger-things-backend`
+      - `git checkout -b joaozinho-sd-016-a-stranger-things-frontend`
       
   5. Adicione a sua branch com o novo `commit` ao repositório remoto:
 
   - Usando o exemplo anterior:
-    - `git push -u origin joaozinho-sd-0x-stranger-things-backend`
-    - `git push -u origin joaozinho-sd-0x-stranger-things-frontend`
+    - `git push -u origin joaozinho-sd-016-a-stranger-things-backend`
+    - `git push -u origin joaozinho-sd-016-a-stranger-things-frontend`
 
   6. Crie um novo `Pull Request` _(PR)_:
 
-  * Vá até a página de _Pull Requests_ dos repositórios no GitHub: [Backend](https://github.com/tryber/sd-0x-stranger-things-backend/pulls) | [Frontend](https://github.com/tryber/sd-0x-stranger-things-frontend/pulls);
+  * Vá até a página de _Pull Requests_ dos repositórios no GitHub: [Backend](https://github.com/tryber/sd-016-a-stranger-things-backend/pulls) | [Frontend](https://github.com/tryber/sd-016-a-stranger-things-frontend/pulls);
 
   * Clique no botão verde _"New pull request"_;
 
@@ -98,9 +98,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   * **Não se preocupe em preencher mais nada por enquanto!**;
 
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-stranger-things-backend/pulls) e confira se o seu _Pull Request_ está criado;
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-016-a-stranger-things-backend/pulls) e confira se o seu _Pull Request_ está criado;
 
-  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-0x-stranger-things-frontend/pulls) e confira se o seu _Pull Request_ está criado;
+  * Volte até a [página de _Pull Requests_ do repositório](https://github.com/tryber/sd-016-a-stranger-things-frontend/pulls) e confira se o seu _Pull Request_ está criado;
 
   * ⚠ **Observação: Os PRs não devem ser abertos neste repositório, apenas nos outros dois repositórios.** ⚠
 
@@ -135,7 +135,7 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
     - No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**;
 
-    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-0x`.
+    - No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-016-a`.
 
   Caso tenha alguma dúvida, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
@@ -191,9 +191,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   Esse repositório contém as instruções e os requisitos para o projeto de Deploy com Heroku. O código base para o desenvolvimento do projeto está dividido em duas partes: a)uma API de back-end utilizando Node.js e Express; e b)um front-end com React. Abaixo estão disponíveis os links de acesso aos respectivos repositórios:
 
-  - [Repositório com o front-end](https://github.com/tryber/sd-0x-stranger-things-frontend);
+  - [Repositório com o front-end](https://github.com/tryber/sd-016-a-stranger-things-frontend);
 
-  - [Repositório com o back-end](https://github.com/tryber/sd-0x-stranger-things-backend).
+  - [Repositório com o back-end](https://github.com/tryber/sd-016-a-stranger-things-backend).
 
   A seguir, temos algumas explicações sobre a estrutura base e alguns comportamentos dessas aplicações. Você explorará esses pontos durante o projeto, alterando o código preexistente.
 
