@@ -15,9 +15,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   Para entregar o seu projeto você deverá criar um Pull Request em **cada um destes** repositórios:
 
-  - [Repositório com o back-end](https://github.com/tryber/sd-016-a-stranger-things-backend).
+  - [Repositório com o back-end](https://github.com/oguiaugusto/stranger-things-backend).
 
-  - [Repositório com o front-end](https://github.com/tryber/sd-016-a-stranger-things-frontend);
+  - [Repositório com o front-end](https://github.com/oguiaugusto/stranger-things-frontend);
 
   Lembre-se de que você pode consultar o nosso conteúdo sobre [Git & GitHub](https://course.betrybe.com/intro/git/) sempre que precisar!
 
@@ -50,8 +50,8 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   1. Clone os **dois** repositórios:
 
-  - `git clone https://github.com/tryber/sd-016-a-stranger-things-backend.git`
-  - `git clone https://github.com/tryber/sd-016-a-stranger-things-frontend.git`
+  - `git clone git@github.com:oguiaugusto/stranger-things-backend.git`
+  - `git clone git@github.com:oguiaugusto/stranger-things-frontend.git`
 
   2. Navegue entre as pastas dos repositórios que você acabou de clonar:
 
@@ -191,9 +191,9 @@ Ao iniciar este projeto, você concorda com as diretrizes do Código de Conduta 
 
   Esse repositório contém as instruções e os requisitos para o projeto de Deploy com Heroku. O código base para o desenvolvimento do projeto está dividido em duas partes: a)uma API de back-end utilizando Node.js e Express; e b)um front-end com React. Abaixo estão disponíveis os links de acesso aos respectivos repositórios:
 
-  - [Repositório com o front-end](https://github.com/tryber/sd-016-a-stranger-things-frontend);
+  - [Repositório com o front-end](https://github.com/oguiaugusto/stranger-things-frontend);
 
-  - [Repositório com o back-end](https://github.com/tryber/sd-016-a-stranger-things-backend).
+  - [Repositório com o back-end](https://github.com/oguiaugusto/stranger-things-backend).
 
   A seguir, temos algumas explicações sobre a estrutura base e alguns comportamentos dessas aplicações. Você explorará esses pontos durante o projeto, alterando o código preexistente.
 
